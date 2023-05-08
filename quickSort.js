@@ -28,4 +28,4 @@ const partition = (arr, startIdx, endIdx) => {
 console.log(quickSort([7, 1, 5, 4, 6, 3, 8]));
 
 // Time complexity: worst = O(n^2), best = O(nlog(n))
-// Space complexity: O(log(n))
+// Space complexity: worst = O(n), best = O(log(n))
