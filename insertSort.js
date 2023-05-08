@@ -11,3 +11,6 @@ const insertSort = (array) => {
 };
 
 console.log(insertSort([5, 6, 3, 4, 1, 2]));
+
+// Time Complexity : worst = O(n^2), best = O(n)
+// Space Complexity : O(1)
